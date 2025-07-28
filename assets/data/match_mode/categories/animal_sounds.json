@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "sound": "dog.mp3",
+    "options": ["Dog", "Cat", "Wolf", "Fox"],
+    "answer": "Dog"
+  },
+  {
+    "id": 2,
+    "sound": "cat.mp3",
+    "options": ["Cat", "Lion", "Tiger", "Leopard"],
+    "answer": "Cat"
+  },
+  {
+    "id": 3,
+    "sound": "lion.mp3",
+    "options": ["Lion", "Tiger", "Leopard", "Cheetah"],
+    "answer": "Lion"
+  },
+  {
+    "id": 4,
+    "sound": "bird.mp3",
+    "options": ["Bird", "Duck", "Chicken", "Eagle"],
+    "answer": "Bird"
+  },
+  {
+    "id": 5,
+    "sound": "frog.mp3",
+    "options": ["Frog", "Toad", "Cricket", "Cicada"],
+    "answer": "Frog"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "category": "Celebrities",
+    "image": "assets/images/celebrities/ronaldo.png",
+    "answer": "Cristiano Ronaldo",
+    "description": "Professional goal scorer and free-kick artist!",
+    "facts": "Has more Instagram followers than Germany's population",
+    "sound": "sounds/celebrities/ronaldo.mp3"
+  },
+  {
+    "category": "Celebrities",
+    "image": "assets/images/celebrities/lionel_messi.jpg",
+    "answer": "Lionel Messi",
+    "description": "Magical dribbler who moves like the ball is glued to his feet!",
+    "facts": "Was given growth hormone treatment as a kid",
+    "sound": "sounds/effects/correct.mp3"
+  }
+]
